@@ -1,0 +1,12 @@
+{
+    "name": "salem/projet-web-ds2",
+    "autoload": {
+        "psr-4": {
+            "Salem\\ProjetWebDs2\\": "src/"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "^5.3",
+        "twig/twig": "^3.9"
+    }
+}
